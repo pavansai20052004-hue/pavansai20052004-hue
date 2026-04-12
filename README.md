@@ -1,4 +1,8 @@
+![Typing](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Learner)
+
 # 👋 Hi, I'm Pavan Sai
+💼 Open to Internships | 📍 India | 🚀 Available for Opportunities
+![Trophy](https://github-profile-trophy.vercel.app/?username=pavansai20052004-hue&theme=tokyonight)
 
 🚀 Aspiring Full Stack Developer | B.Tech Student  
 💡 Passionate about building scalable web apps and solving real-world problems  
