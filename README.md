@@ -36,9 +36,9 @@ Git | GitHub | VS Code | Canva | Power BI
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?pavansai20052004-hue=pavansai20052004-hue&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=pavansai20052004-hue&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?pavansai20052004-hue=pavansai20052004-hue&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavansai20052004-hue&layout=compact&theme=tokyonight)
 
 ---
 
