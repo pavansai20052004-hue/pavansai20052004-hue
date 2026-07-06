@@ -1,43 +1,88 @@
-# Hi, I'm GJV Pavan Sai
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=920&lines=QA+Engineer+and+Full-Stack+Developer;Manual%2C+Functional+and+API+Testing;Java+%7C+Python+%7C+JavaScript+%7C+SQL;Building+reliable+products+with+quality+and+technical+depth" alt="Typing SVG" />
+</div>
 
-QA Engineer and Full-Stack Developer with a B.Tech in Data Science, hands-on experience in manual testing, functional testing, API testing, and a strong development foundation across modern web applications.
+<h1 align="center">GJV Pavan Sai</h1>
 
-## Professional Summary
-- Experience in test case design, bug reporting, RTM, defect life cycle, SDLC, STLC, and Agile workflows
-- Strong technical background in Java, Python, JavaScript, SQL, REST APIs, React.js, Node.js, Express.js, JWT, and RBAC
-- Comfortable working across UI validation, API verification, backend logic, role-based flows, and data-driven applications
+<p align="center">
+  QA Engineer and Full-Stack Developer with hands-on experience in testing, building, and improving modern web applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gjv44/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pavan-sai-portfolio-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:pavansai20052004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## Professional Focus
+
+- Manual, functional, regression, and API testing for web applications
+- Test case design, bug reporting, RTM, defect life cycle, and Agile workflows
+- Full-stack development across JavaScript-based web applications and REST APIs
+- Product quality backed by strong technical understanding of backend, UI, and data flows
 
 ## Core Skills
-- QA Testing: Manual Testing, Functional Testing, Smoke Testing, Sanity Testing, Regression Testing, UAT, Exploratory Testing, API Testing
-- QA Documentation: Test Scenarios, Test Cases, Bug Reports, RTM, Test Summary Reports, Severity and Priority Classification
-- Tools: JIRA, Postman, Microsoft Excel, Git, GitHub, Chrome DevTools, VS Code
-- Development: Java, Python, JavaScript, SQL, React.js, Node.js, Express.js, MySQL, MongoDB, PostgreSQL, SQLite
 
-## Experience Highlights
-- Full Stack Web Development Intern at Unified Mentor
-  - Developed REST APIs for MERN applications with JWT authentication and RBAC
-- DevOps Intern at Skilified Mentor
-  - Worked on Java build, test, packaging, Git, and CI/CD workflows
-- Data Science and Analytics Intern at Zidio Development
-  - Built Python-based workflows for data cleaning, transformation, and validation
+**QA and Testing**
+- Manual Testing
+- Functional Testing
+- Smoke and Sanity Testing
+- Regression Testing
+- API Testing
+- UAT and Exploratory Testing
+- Test Scenarios and Test Cases
+- Bug Reporting and RTM
 
-## Project Highlights
-### Swag Labs E-Commerce Application
-- Designed 20+ test cases across Login, Cart, and Checkout modules
-- Covered positive, negative, exploratory, regression, BVA, and equivalence partitioning scenarios
+**Development and Data**
+- Java
+- Python
+- JavaScript
+- SQL
+- React.js
+- Node.js
+- Express.js
+- REST APIs
+- JWT and RBAC
+- MySQL, MongoDB, PostgreSQL, SQLite
 
-### RentEase Rental Management Platform
-- Tested authentication, product listing, rental cart, and role-based dashboard workflows
-- Validated API payloads, status codes, and JWT/RBAC access control using Postman
+**Tools**
+- JIRA
+- Postman
+- Git and GitHub
+- Chrome DevTools
+- Microsoft Excel
+- VS Code
 
-### HunarHub Skill Marketplace
-- Tested admin, entrepreneur, and customer workflows including login, service listing, and approval flows
-- Designed role-based test cases for CRUD operations, unauthorized access, and error handling
+## Experience Snapshot
+
+**Full Stack Web Development Intern - Unified Mentor**
+- Developed REST APIs for MERN applications using Node.js, Express.js, MongoDB, JWT, and RBAC
+- Gained strong exposure to backend logic, validation flows, and API behavior from a tester's perspective
+
+**DevOps Intern - Skilified Mentor**
+- Worked on Java build, test, packaging, Git, and CI/CD workflows
+- Improved build reliability and deployment consistency through structured automation
+
+**Data Science and Analytics Intern - Zidio Development**
+- Built Python-based workflows for data cleaning, transformation, and validation
+- Strengthened analytical thinking useful for QA validation and test data management
+
+## Selected Projects
+
+| Project | Focus Area | Key Work |
+| --- | --- | --- |
+| Swag Labs E-Commerce Application | Manual QA Testing | Designed 20+ test cases for Login, Cart, and Checkout with positive, negative, exploratory, regression, BVA, and equivalence partitioning coverage |
+| RentEase Rental Management Platform | Functional and API Testing | Tested authentication, product listing, rental cart, and role-based dashboards; validated payloads, status codes, and JWT or RBAC behavior in Postman |
+| HunarHub Skill Marketplace | Role-Based QA Testing | Tested admin, entrepreneur, and customer workflows with strong coverage for CRUD operations, unauthorized access, and error handling |
+| DevPilot AI | Product and Platform Engineering | Built a modern TypeScript-based product surface with strong attention to product experience and engineering quality |
+
+## What I Bring
+
+- A QA mindset with development depth
+- Clear defect documentation and structured validation thinking
+- Strong comfort across UI, API, backend, and database layers
+- The ability to understand how products are built, not just how they are tested
 
 ## Open To
-QA Engineer | Software Test Engineer | API Testing | Full-Stack Developer | Product Engineering Roles
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/gjv44/
-- Portfolio: https://pavan-sai-portfolio-xi.vercel.app/
-- Email: pavansai20052004@gmail.com
+QA Engineer, Software Test Engineer, API Testing, Product Quality Engineering, and technically strong Full-Stack Developer roles.
